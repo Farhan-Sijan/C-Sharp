@@ -1,0 +1,442 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LoginFinal\\Login Final\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D2878B1-E1FA-4AE4-B3D5-45E21FAC3694}|Login\\Login.csproj|D:\\LoginFinal\\Login Final\\login\\a1admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6D2878B1-E1FA-4AE4-B3D5-45E21FAC3694}|Login\\Login.csproj|solutionrelative:login\\a1admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D2878B1-E1FA-4AE4-B3D5-45E21FAC3694}|Login\\Login.csproj|D:\\LoginFinal\\Login Final\\login\\a1admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D2878B1-E1FA-4AE4-B3D5-45E21FAC3694}|Login\\Login.csproj|solutionrelative:login\\a1admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D2878B1-E1FA-4AE4-B3D5-45E21FAC3694}|Login\\Login.csproj|D:\\LoginFinal\\Login Final\\login\\m1categorymanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6D2878B1-E1FA-4AE4-B3D5-45E21FAC3694}|Login\\Login.csproj|solutionrelative:login\\m1categorymanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D2878B1-E1FA-4AE4-B3D5-45E21FAC3694}|Login\\Login.csproj|D:\\LoginFinal\\Login Final\\login\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D2878B1-E1FA-4AE4-B3D5-45E21FAC3694}|Login\\Login.csproj|solutionrelative:login\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D2878B1-E1FA-4AE4-B3D5-45E21FAC3694}|Login\\Login.csproj|D:\\LoginFinal\\Login Final\\login\\applicationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D2878B1-E1FA-4AE4-B3D5-45E21FAC3694}|Login\\Login.csproj|solutionrelative:login\\applicationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D2878B1-E1FA-4AE4-B3D5-45E21FAC3694}|Login\\Login.csproj|D:\\LoginFinal\\Login Final\\login\\m2rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6D2878B1-E1FA-4AE4-B3D5-45E21FAC3694}|Login\\Login.csproj|solutionrelative:login\\m2rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D2878B1-E1FA-4AE4-B3D5-45E21FAC3694}|Login\\Login.csproj|D:\\LoginFinal\\Login Final\\login\\m1categorymanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D2878B1-E1FA-4AE4-B3D5-45E21FAC3694}|Login\\Login.csproj|solutionrelative:login\\m1categorymanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D2878B1-E1FA-4AE4-B3D5-45E21FAC3694}|Login\\Login.csproj|D:\\LoginFinal\\Login Final\\login\\m2rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D2878B1-E1FA-4AE4-B3D5-45E21FAC3694}|Login\\Login.csproj|solutionrelative:login\\m2rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D2878B1-E1FA-4AE4-B3D5-45E21FAC3694}|Login\\Login.csproj|d:\\loginfinal\\login final\\login\\s2_emp3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D2878B1-E1FA-4AE4-B3D5-45E21FAC3694}|Login\\Login.csproj|solutionrelative:login\\s2_emp3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D2878B1-E1FA-4AE4-B3D5-45E21FAC3694}|Login\\Login.csproj|D:\\LoginFinal\\Login Final\\login\\s2_emp3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6D2878B1-E1FA-4AE4-B3D5-45E21FAC3694}|Login\\Login.csproj|solutionrelative:login\\s2_emp3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D2878B1-E1FA-4AE4-B3D5-45E21FAC3694}|Login\\Login.csproj|D:\\LoginFinal\\Login Final\\login\\s2_emp2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6D2878B1-E1FA-4AE4-B3D5-45E21FAC3694}|Login\\Login.csproj|solutionrelative:login\\s2_emp2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D2878B1-E1FA-4AE4-B3D5-45E21FAC3694}|Login\\Login.csproj|D:\\LoginFinal\\Login Final\\login\\s2_emp2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D2878B1-E1FA-4AE4-B3D5-45E21FAC3694}|Login\\Login.csproj|solutionrelative:login\\s2_emp2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D2878B1-E1FA-4AE4-B3D5-45E21FAC3694}|Login\\Login.csproj|D:\\LoginFinal\\Login Final\\login\\s1_emp1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6D2878B1-E1FA-4AE4-B3D5-45E21FAC3694}|Login\\Login.csproj|solutionrelative:login\\s1_emp1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D2878B1-E1FA-4AE4-B3D5-45E21FAC3694}|Login\\Login.csproj|D:\\LoginFinal\\Login Final\\login\\s2_emp4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6D2878B1-E1FA-4AE4-B3D5-45E21FAC3694}|Login\\Login.csproj|solutionrelative:login\\s2_emp4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D2878B1-E1FA-4AE4-B3D5-45E21FAC3694}|Login\\Login.csproj|D:\\LoginFinal\\Login Final\\login\\s2_emp4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D2878B1-E1FA-4AE4-B3D5-45E21FAC3694}|Login\\Login.csproj|solutionrelative:login\\s2_emp4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D2878B1-E1FA-4AE4-B3D5-45E21FAC3694}|Login\\Login.csproj|D:\\LoginFinal\\Login Final\\login\\s1_emp1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D2878B1-E1FA-4AE4-B3D5-45E21FAC3694}|Login\\Login.csproj|solutionrelative:login\\s1_emp1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D2878B1-E1FA-4AE4-B3D5-45E21FAC3694}|Login\\Login.csproj|D:\\LoginFinal\\Login Final\\login\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D2878B1-E1FA-4AE4-B3D5-45E21FAC3694}|Login\\Login.csproj|solutionrelative:login\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D2878B1-E1FA-4AE4-B3D5-45E21FAC3694}|Login\\Login.csproj|D:\\LoginFinal\\Login Final\\login\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D2878B1-E1FA-4AE4-B3D5-45E21FAC3694}|Login\\Login.csproj|solutionrelative:login\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D2878B1-E1FA-4AE4-B3D5-45E21FAC3694}|Login\\Login.csproj|D:\\LoginFinal\\Login Final\\login\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6D2878B1-E1FA-4AE4-B3D5-45E21FAC3694}|Login\\Login.csproj|solutionrelative:login\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D2878B1-E1FA-4AE4-B3D5-45E21FAC3694}|Login\\Login.csproj|D:\\LoginFinal\\Login Final\\login\\a1customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6D2878B1-E1FA-4AE4-B3D5-45E21FAC3694}|Login\\Login.csproj|solutionrelative:login\\a1customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D2878B1-E1FA-4AE4-B3D5-45E21FAC3694}|Login\\Login.csproj|D:\\LoginFinal\\Login Final\\login\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6D2878B1-E1FA-4AE4-B3D5-45E21FAC3694}|Login\\Login.csproj|solutionrelative:login\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D2878B1-E1FA-4AE4-B3D5-45E21FAC3694}|Login\\Login.csproj|D:\\LoginFinal\\Login Final\\login\\a1admindasboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6D2878B1-E1FA-4AE4-B3D5-45E21FAC3694}|Login\\Login.csproj|solutionrelative:login\\a1admindasboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D2878B1-E1FA-4AE4-B3D5-45E21FAC3694}|Login\\Login.csproj|D:\\LoginFinal\\Login Final\\login\\a1cusinvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D2878B1-E1FA-4AE4-B3D5-45E21FAC3694}|Login\\Login.csproj|solutionrelative:login\\a1cusinvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D2878B1-E1FA-4AE4-B3D5-45E21FAC3694}|Login\\Login.csproj|D:\\LoginFinal\\Login Final\\login\\a1cusmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D2878B1-E1FA-4AE4-B3D5-45E21FAC3694}|Login\\Login.csproj|solutionrelative:login\\a1cusmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D2878B1-E1FA-4AE4-B3D5-45E21FAC3694}|Login\\Login.csproj|D:\\LoginFinal\\Login Final\\login\\a1cusmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6D2878B1-E1FA-4AE4-B3D5-45E21FAC3694}|Login\\Login.csproj|solutionrelative:login\\a1cusmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D2878B1-E1FA-4AE4-B3D5-45E21FAC3694}|Login\\Login.csproj|D:\\LoginFinal\\Login Final\\login\\a1cusinvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6D2878B1-E1FA-4AE4-B3D5-45E21FAC3694}|Login\\Login.csproj|solutionrelative:login\\a1cusinvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "D:\\LoginFinal\\Login Final\\Login\\Login.cs",
+              "RelativeDocumentMoniker": "Login\\Login.cs",
+              "ToolTip": "D:\\LoginFinal\\Login Final\\Login\\Login.cs [Design]",
+              "RelativeToolTip": "Login\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T18:11:37.035Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Registration.cs [Design]",
+              "DocumentMoniker": "D:\\LoginFinal\\Login Final\\Login\\Registration.cs",
+              "RelativeDocumentMoniker": "Login\\Registration.cs",
+              "ToolTip": "D:\\LoginFinal\\Login Final\\Login\\Registration.cs [Design]",
+              "RelativeToolTip": "Login\\Registration.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T17:45:25.784Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "A1Customer.cs [Design]",
+              "DocumentMoniker": "D:\\LoginFinal\\Login Final\\Login\\A1Customer.cs",
+              "RelativeDocumentMoniker": "Login\\A1Customer.cs",
+              "ToolTip": "D:\\LoginFinal\\Login Final\\Login\\A1Customer.cs [Design]",
+              "RelativeToolTip": "Login\\A1Customer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T08:03:57.594Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "M1CategoryManagement.cs [Design]",
+              "DocumentMoniker": "D:\\LoginFinal\\Login Final\\Login\\M1CategoryManagement.cs",
+              "RelativeDocumentMoniker": "Login\\M1CategoryManagement.cs",
+              "ToolTip": "D:\\LoginFinal\\Login Final\\Login\\M1CategoryManagement.cs [Design]*",
+              "RelativeToolTip": "Login\\M1CategoryManagement.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T17:16:34.362Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\LoginFinal\\Login Final\\Login\\Login.cs",
+              "RelativeDocumentMoniker": "Login\\Login.cs",
+              "ToolTip": "D:\\LoginFinal\\Login Final\\Login\\Login.cs",
+              "RelativeToolTip": "Login\\Login.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAkwEwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T06:37:15.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "S2_Emp4.cs",
+              "DocumentMoniker": "D:\\LoginFinal\\Login Final\\Login\\S2_Emp4.cs",
+              "RelativeDocumentMoniker": "Login\\S2_Emp4.cs",
+              "ToolTip": "D:\\LoginFinal\\Login Final\\Login\\S2_Emp4.cs",
+              "RelativeToolTip": "Login\\S2_Emp4.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAgwCoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T18:30:34.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "S2_Emp3.cs",
+              "DocumentMoniker": "D:\\LoginFinal\\Login Final\\Login\\S2_Emp3.cs",
+              "RelativeDocumentMoniker": "Login\\S2_Emp3.cs",
+              "ToolTip": "D:\\LoginFinal\\Login Final\\Login\\S2_Emp3.cs",
+              "RelativeToolTip": "Login\\S2_Emp3.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAkwFwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T18:29:48.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "M1CategoryManagement.cs",
+              "DocumentMoniker": "D:\\LoginFinal\\Login Final\\Login\\M1CategoryManagement.cs",
+              "RelativeDocumentMoniker": "Login\\M1CategoryManagement.cs",
+              "ToolTip": "D:\\LoginFinal\\Login Final\\Login\\M1CategoryManagement.cs*",
+              "RelativeToolTip": "Login\\M1CategoryManagement.cs*",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAUwJQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T18:28:41.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "M2Rating.cs",
+              "DocumentMoniker": "D:\\LoginFinal\\Login Final\\Login\\M2Rating.cs",
+              "RelativeDocumentMoniker": "Login\\M2Rating.cs",
+              "ToolTip": "D:\\LoginFinal\\Login Final\\Login\\M2Rating.cs",
+              "RelativeToolTip": "Login\\M2Rating.cs",
+              "ViewState": "AgIAAAoBAAAAAAAAAAAAwIEAAAAzAQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T18:28:00.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "A1Admin.cs",
+              "DocumentMoniker": "D:\\LoginFinal\\Login Final\\Login\\A1Admin.cs",
+              "RelativeDocumentMoniker": "Login\\A1Admin.cs",
+              "ToolTip": "D:\\LoginFinal\\Login Final\\Login\\A1Admin.cs*",
+              "RelativeToolTip": "Login\\A1Admin.cs*",
+              "ViewState": "AgIAAOYAAAAAAAAAAAAnwAgBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T18:27:26.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Registration.cs",
+              "DocumentMoniker": "D:\\LoginFinal\\Login Final\\Login\\Registration.cs",
+              "RelativeDocumentMoniker": "Login\\Registration.cs",
+              "ToolTip": "D:\\LoginFinal\\Login Final\\Login\\Registration.cs",
+              "RelativeToolTip": "Login\\Registration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T18:19:51.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "S2_Emp2.cs",
+              "DocumentMoniker": "D:\\LoginFinal\\Login Final\\Login\\S2_Emp2.cs",
+              "RelativeDocumentMoniker": "Login\\S2_Emp2.cs",
+              "ToolTip": "D:\\LoginFinal\\Login Final\\Login\\S2_Emp2.cs",
+              "RelativeToolTip": "Login\\S2_Emp2.cs",
+              "ViewState": "AgIAAJQAAAAAAAAAAAAcwJMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T17:39:11.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "A1Admin.cs [Design]",
+              "DocumentMoniker": "D:\\LoginFinal\\Login Final\\Login\\A1Admin.cs",
+              "RelativeDocumentMoniker": "Login\\A1Admin.cs",
+              "ToolTip": "D:\\LoginFinal\\Login Final\\Login\\A1Admin.cs [Design]*",
+              "RelativeToolTip": "Login\\A1Admin.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T05:09:12.944Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "S1_Emp1.cs [Design]",
+              "DocumentMoniker": "D:\\LoginFinal\\Login Final\\Login\\S1_Emp1.cs",
+              "RelativeDocumentMoniker": "Login\\S1_Emp1.cs",
+              "ToolTip": "D:\\LoginFinal\\Login Final\\Login\\S1_Emp1.cs [Design]",
+              "RelativeToolTip": "Login\\S1_Emp1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T18:19:13.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "S2_Emp2.cs [Design]",
+              "DocumentMoniker": "D:\\LoginFinal\\Login Final\\Login\\S2_Emp2.cs",
+              "RelativeDocumentMoniker": "Login\\S2_Emp2.cs",
+              "ToolTip": "D:\\LoginFinal\\Login Final\\Login\\S2_Emp2.cs [Design]",
+              "RelativeToolTip": "Login\\S2_Emp2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T06:28:57.177Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "S2_Emp3.cs [Design]",
+              "DocumentMoniker": "D:\\LoginFinal\\Login Final\\Login\\S2_Emp3.cs",
+              "RelativeDocumentMoniker": "Login\\S2_Emp3.cs",
+              "ToolTip": "D:\\LoginFinal\\Login Final\\Login\\S2_Emp3.cs [Design]",
+              "RelativeToolTip": "Login\\S2_Emp3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T15:20:01.984Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "S2_Emp4.cs [Design]",
+              "DocumentMoniker": "D:\\LoginFinal\\Login Final\\Login\\S2_Emp4.cs",
+              "RelativeDocumentMoniker": "Login\\S2_Emp4.cs",
+              "ToolTip": "D:\\LoginFinal\\Login Final\\Login\\S2_Emp4.cs [Design]",
+              "RelativeToolTip": "Login\\S2_Emp4.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T17:30:33.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "A1AdminDasboard.cs [Design]",
+              "DocumentMoniker": "D:\\LoginFinal\\Login Final\\Login\\A1AdminDasboard.cs",
+              "RelativeDocumentMoniker": "Login\\A1AdminDasboard.cs",
+              "ToolTip": "D:\\LoginFinal\\Login Final\\Login\\A1AdminDasboard.cs [Design]",
+              "RelativeToolTip": "Login\\A1AdminDasboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T19:03:07.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "A1CusInvoice.cs [Design]",
+              "DocumentMoniker": "D:\\LoginFinal\\Login Final\\Login\\A1CusInvoice.cs",
+              "RelativeDocumentMoniker": "Login\\A1CusInvoice.cs",
+              "ToolTip": "D:\\LoginFinal\\Login Final\\Login\\A1CusInvoice.cs [Design]",
+              "RelativeToolTip": "Login\\A1CusInvoice.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T08:03:06.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "A1CusMenu.cs [Design]",
+              "DocumentMoniker": "D:\\LoginFinal\\Login Final\\Login\\A1CusMenu.cs",
+              "RelativeDocumentMoniker": "Login\\A1CusMenu.cs",
+              "ToolTip": "D:\\LoginFinal\\Login Final\\Login\\A1CusMenu.cs [Design]",
+              "RelativeToolTip": "Login\\A1CusMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T17:34:51.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "M2Rating.cs [Design]",
+              "DocumentMoniker": "D:\\LoginFinal\\Login Final\\Login\\M2Rating.cs",
+              "RelativeDocumentMoniker": "Login\\M2Rating.cs",
+              "ToolTip": "D:\\LoginFinal\\Login Final\\Login\\M2Rating.cs [Design]",
+              "RelativeToolTip": "Login\\M2Rating.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T07:09:17.576Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\LoginFinal\\Login Final\\Login\\Program.cs",
+              "RelativeDocumentMoniker": "Login\\Program.cs",
+              "ToolTip": "D:\\LoginFinal\\Login Final\\Login\\Program.cs",
+              "RelativeToolTip": "Login\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T09:11:15.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "A1CusInvoice.cs",
+              "DocumentMoniker": "D:\\LoginFinal\\Login Final\\Login\\A1CusInvoice.cs",
+              "RelativeDocumentMoniker": "Login\\A1CusInvoice.cs",
+              "ToolTip": "D:\\LoginFinal\\Login Final\\Login\\A1CusInvoice.cs",
+              "RelativeToolTip": "Login\\A1CusInvoice.cs",
+              "ViewState": "AgIAAEMBAAAAAAAAAAAswMoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T08:03:30.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "A1CusMenu.cs",
+              "DocumentMoniker": "D:\\LoginFinal\\Login Final\\Login\\A1CusMenu.cs",
+              "RelativeDocumentMoniker": "Login\\A1CusMenu.cs",
+              "ToolTip": "D:\\LoginFinal\\Login Final\\Login\\A1CusMenu.cs",
+              "RelativeToolTip": "Login\\A1CusMenu.cs",
+              "ViewState": "AgIAALsAAAAAAAAAAADwv0cAAADbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T05:34:52.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "S1_Emp1.cs",
+              "DocumentMoniker": "D:\\LoginFinal\\Login Final\\Login\\S1_Emp1.cs",
+              "RelativeDocumentMoniker": "Login\\S1_Emp1.cs",
+              "ToolTip": "D:\\LoginFinal\\Login Final\\Login\\S1_Emp1.cs",
+              "RelativeToolTip": "Login\\S1_Emp1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T15:31:01.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationHelper.cs",
+              "DocumentMoniker": "D:\\LoginFinal\\Login Final\\Login\\ApplicationHelper.cs",
+              "RelativeDocumentMoniker": "Login\\ApplicationHelper.cs",
+              "ToolTip": "D:\\LoginFinal\\Login Final\\Login\\ApplicationHelper.cs",
+              "RelativeToolTip": "Login\\ApplicationHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAACIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T06:32:45.464Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

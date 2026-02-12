@@ -1,0 +1,73 @@
+D:\CSharp\Login\Login\bin\Debug\Login.exe.config
+D:\CSharp\Login\Login\bin\Debug\Login.exe
+D:\CSharp\Login\Login\obj\Debug\Login.csproj.AssemblyReference.cache
+D:\CSharp\Login\Login\obj\Debug\Login.Properties.Resources.resources
+D:\CSharp\Login\Login\obj\Debug\Login.csproj.GenerateResource.cache
+D:\CSharp\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+D:\CSharp\Login\Login\obj\Debug\dje-NE\Login.resources.dll
+D:\CSharp\Login\Login\obj\Debug\Login.exe
+D:\CSharp\Login\Login\obj\Debug\Login.pdb
+D:\CSharp\Login\Login\bin\Debug\Login.pdb
+D:\CSharp\Login\Login\bin\Debug\dje-NE\Login.resources.dll
+D:\CSharp\Login\Login\obj\Debug\Login.Login.resources
+D:\CSharp\Login\Login\obj\Debug\Login.Registration.resources
+D:\CSharp\Login\Login\obj\Debug\Login.Login.dje-NE.resources
+D:\CSharp\Login\Login\obj\Debug\Login.S1_Emp1.resources
+D:\CSharp\Login\Login\obj\Debug\Login.S2_Emp2.resources
+D:\CSharp\Login\Login\obj\Debug\Login.S2_Emp3.resources
+D:\CSharp\Login\Login\obj\Debug\Login.S2_Emp4.resources
+D:\CSharp\Login\Login\obj\Debug\Login.A1Admin.resources
+D:\CSharp\Login\Login\obj\Debug\Login.A1CusInvoice.resources
+D:\CSharp\Login\Login\obj\Debug\Login.A1CusMenu.resources
+D:\CSharp\Login\Login\obj\Debug\Login.A1Customer.resources
+D:\CSharp\Login\Login\obj\Debug\Login.M1CategoryManagement.resources
+C:\Users\Asus\Downloads\Login Final\Login\bin\Debug\Login.exe.config
+C:\Users\Asus\Downloads\Login Final\Login\bin\Debug\Login.exe
+C:\Users\Asus\Downloads\Login Final\Login\bin\Debug\Login.pdb
+C:\Users\Asus\Downloads\Login Final\Login\bin\Debug\dje-NE\Login.resources.dll
+C:\Users\Asus\Downloads\Login Final\Login\obj\Debug\Login.csproj.AssemblyReference.cache
+C:\Users\Asus\Downloads\Login Final\Login\obj\Debug\Login.A1Admin.resources
+C:\Users\Asus\Downloads\Login Final\Login\obj\Debug\Login.A1CusInvoice.resources
+C:\Users\Asus\Downloads\Login Final\Login\obj\Debug\Login.A1CusMenu.resources
+C:\Users\Asus\Downloads\Login Final\Login\obj\Debug\Login.A1Customer.resources
+C:\Users\Asus\Downloads\Login Final\Login\obj\Debug\Login.M1CategoryManagement.resources
+C:\Users\Asus\Downloads\Login Final\Login\obj\Debug\Login.S1_Emp1.resources
+C:\Users\Asus\Downloads\Login Final\Login\obj\Debug\Login.Login.resources
+C:\Users\Asus\Downloads\Login Final\Login\obj\Debug\Login.Registration.resources
+C:\Users\Asus\Downloads\Login Final\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\Asus\Downloads\Login Final\Login\obj\Debug\Login.S2_Emp2.resources
+C:\Users\Asus\Downloads\Login Final\Login\obj\Debug\Login.S2_Emp3.resources
+C:\Users\Asus\Downloads\Login Final\Login\obj\Debug\Login.S2_Emp4.resources
+C:\Users\Asus\Downloads\Login Final\Login\obj\Debug\Login.Login.dje-NE.resources
+C:\Users\Asus\Downloads\Login Final\Login\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\Asus\Downloads\Login Final\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Downloads\Login Final\Login\obj\Debug\dje-NE\Login.resources.dll
+C:\Users\Asus\Downloads\Login Final\Login\obj\Debug\Login.exe
+C:\Users\Asus\Downloads\Login Final\Login\obj\Debug\Login.pdb
+C:\Users\Asus\Downloads\Login Final\Login\obj\Debug\Login.M2Rating.resources
+C:\Users\Asus\Downloads\Login Final\Login\obj\Debug\Login.A1AdminDasboard.resources
+D:\LoginFinal\Login Final\Login\bin\Debug\Login.exe.config
+D:\LoginFinal\Login Final\Login\bin\Debug\Login.exe
+D:\LoginFinal\Login Final\Login\bin\Debug\Login.pdb
+D:\LoginFinal\Login Final\Login\bin\Debug\dje-NE\Login.resources.dll
+D:\LoginFinal\Login Final\Login\obj\Debug\Login.csproj.AssemblyReference.cache
+D:\LoginFinal\Login Final\Login\obj\Debug\Login.A1Admin.resources
+D:\LoginFinal\Login Final\Login\obj\Debug\Login.A1AdminDasboard.resources
+D:\LoginFinal\Login Final\Login\obj\Debug\Login.A1CusInvoice.resources
+D:\LoginFinal\Login Final\Login\obj\Debug\Login.A1CusMenu.resources
+D:\LoginFinal\Login Final\Login\obj\Debug\Login.A1Customer.resources
+D:\LoginFinal\Login Final\Login\obj\Debug\Login.M1CategoryManagement.resources
+D:\LoginFinal\Login Final\Login\obj\Debug\Login.M2Rating.resources
+D:\LoginFinal\Login Final\Login\obj\Debug\Login.S1_Emp1.resources
+D:\LoginFinal\Login Final\Login\obj\Debug\Login.Login.resources
+D:\LoginFinal\Login Final\Login\obj\Debug\Login.Registration.resources
+D:\LoginFinal\Login Final\Login\obj\Debug\Login.Properties.Resources.resources
+D:\LoginFinal\Login Final\Login\obj\Debug\Login.S2_Emp2.resources
+D:\LoginFinal\Login Final\Login\obj\Debug\Login.S2_Emp3.resources
+D:\LoginFinal\Login Final\Login\obj\Debug\Login.S2_Emp4.resources
+D:\LoginFinal\Login Final\Login\obj\Debug\Login.Login.dje-NE.resources
+D:\LoginFinal\Login Final\Login\obj\Debug\Login.csproj.GenerateResource.cache
+D:\LoginFinal\Login Final\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+D:\LoginFinal\Login Final\Login\obj\Debug\dje-NE\Login.resources.dll
+D:\LoginFinal\Login Final\Login\obj\Debug\Login.exe
+D:\LoginFinal\Login Final\Login\obj\Debug\Login.pdb

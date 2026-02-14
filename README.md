@@ -13,5 +13,6 @@ This is a .NET based C# Windows Forms desktop application developed for learning
 - .NET Framework
 - Windows Forms
 - Visual Studio
+- SQL Server Management Studio 22
 
 

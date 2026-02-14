@@ -14,5 +14,4 @@ This is a .NET based C# Windows Forms desktop application developed for learning
 - Windows Forms
 - Visual Studio
 
-## Author
-Farhan Sijan
+
